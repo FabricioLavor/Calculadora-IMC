@@ -6,10 +6,14 @@ O projeto "Calculadora de IMC" é uma aplicação web desenvolvida para calcular
 
 Principais Recursos:
 
-HTML: Estruturação da página com campos de entrada para peso e altura, além de um botão para calcular o IMC.
-CSS: Design responsivo que garante uma boa apresentação e usabilidade em dispositivos móveis. O estilo é otimizado para garantir que a interface seja clara e acessível em diferentes tamanhos de tela.
-JavaScript: Implementação da lógica para calcular o IMC com base nos dados inseridos e exibir o resultado ao usuário. Também inclui validações para garantir a entrada de dados válidos.
-Compatibilidade Móvel: O design da calculadora é responsivo, o que significa que ela se adapta a diferentes tamanhos de tela, proporcionando uma experiência de usuário otimizada em dispositivos móveis.
+**HTML:** Estruturação da página com campos de entrada para peso e altura, além de um botão para calcular o IMC.
+
+**CSS:** Design responsivo que garante uma boa apresentação e usabilidade em dispositivos móveis. O estilo é otimizado para garantir que a interface seja clara e acessível em diferentes tamanhos de tela.
+
+**JavaScript:** Implementação da lógica para calcular o IMC com base nos dados inseridos e exibir o resultado ao usuário. Também inclui validações para garantir a entrada de dados válidos.
+
+**Compatibilidade Móvel:** O design da calculadora é responsivo, o que significa que ela se adapta a diferentes tamanhos de tela, proporcionando uma experiência de usuário otimizada em dispositivos móveis.
+
 
 
 [![Acesse o site da Calculadora IMCON](https://img.shields.io/badge/Visite%20a%20Calculadora%20IMCON-blue?style=for-the-badge)](https://calculadoraimcon.netlify.app)
