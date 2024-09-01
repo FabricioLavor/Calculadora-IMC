@@ -12,4 +12,4 @@ JavaScript: Implementação da lógica para calcular o IMC com base nos dados in
 Compatibilidade Móvel: O design da calculadora é responsivo, o que significa que ela se adapta a diferentes tamanhos de tela, proporcionando uma experiência de usuário otimizada em dispositivos móveis.
 
 
-para visualização do projeto : https://calculadoraimcon.netlify.app
+[![Acesse o site da Calculadora IMCON](https://img.shields.io/badge/Visite%20a%20Calculadora%20IMCON-blue?style=for-the-badge)](https://calculadoraimcon.netlify.app)
